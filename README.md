@@ -7,14 +7,14 @@
 
 - 💬 Ask me about **ReactJs, Angular,JavaScript,HTML,CSS,Tailwind CSS, MongoDB, Express, Bootstrap**
 
-- 📫 How to reach me **datboyngeo@gmail.com**
+- 📫 How to reach me **Tiendat220402@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100017476893022" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="mailto:datboyngeo@gmail.com" target="_blank">
+  <a href="mailto:tiendat220404@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="Gmail" height="40" width="40" />
   </a>
 <a href="https://instagram.com/tiendat2204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiendat2204" height="30" width="40" /></a>
