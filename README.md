@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJs, Angular,JavaScript,HTML,CSS,Tailwind CSS, MongoDB, Express, Bootstrap**
 
-- 📫 How to reach me **Tiendat220402@gmail.com**
+- 📫 How to reach me **Tiendat220404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
