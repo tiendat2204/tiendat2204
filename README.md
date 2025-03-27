@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Triệu Tiến Đạt</h1>
+<h1 align="center">Hi 👋, I'm Tiến Đạt</h1>
 <h3 align="center">A frontend developer 👨‍💻 </h3>
 
 - 🔭 I’m currently a  Web Developer, a Frontend Developer.
