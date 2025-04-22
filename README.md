@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiến Đạt</h1>
-<h3 align="center">A frontend developer 👨‍💻 </h3>
+<h3 align="center">A full stack developer 👨‍💻</h3>
 
-- 🔭 I’m currently a  Web Developer, a Frontend Developer.
+- 🔭 I’m currently a Web Developer, focusing on Full Stack Development.
 
 - 👨‍💻 All of my projects are available at [tiendat220404](https://tiendat2204.github.io/Portfolio-Website/)
 
