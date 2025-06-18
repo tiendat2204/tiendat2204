@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently a Web Developer, focusing on Full Stack Development.
 
-- 👨‍💻 All of my projects are available at [tiendat220404](https://www.tiendatdev.me/)
+- 👨‍💻 All of my projects are available at [tiendat220404](https://tiendatdev.me)
 
-- 💬 Ask me about **ReactJs, Angular,JavaScript,HTML,CSS,Tailwind CSS, MongoDB, Express, Bootstrap,TypeScript,Django,Python**
+- 💬 Ask me about **ReactJs, Nextjs, Angular,JavaScript,HTML,CSS,Tailwind CSS, MongoDB, Express, Bootstrap, TypeScript, Django, Python**
 
 - 📫 How to reach me **Tiendat220404@gmail.com**
 
