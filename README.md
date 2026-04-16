@@ -1,5 +1,6 @@
 [![Profile Views](https://img.shields.io/badge/Profile%20Views-5320-000?style=for-the-badge)](https://github.com/tiendat2204)
 [![Commits](https://img.shields.io/badge/Commits-10k-000?style=for-the-badge&logo=git&logoColor=white)](https://github.com/tiendat2204)
-[![GitHub](https://img.shields.io/badge/GitHub-tiendat2204-181717?style=for-the-badge&logo=github)](https://github.com/tiendat2204)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ttd-7796b5341/)
 [![Website](https://img.shields.io/badge/Portfolio-tiendatdev.me-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://tiendatdev.me/)
